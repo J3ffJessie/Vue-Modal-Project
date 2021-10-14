@@ -8,6 +8,11 @@ Template Refs give us the ability to place a handle on DOM elements. Similar to 
 
 **Example**
 
+## Template Refs
+
+<details>
+<summary>Template Refs</summary>
+
 ```js
 <input type='text' ref='name'>
 <button @click='handleClick'>Click Me </button>
@@ -33,6 +38,10 @@ export default {
             },
 }
 ```
+
+</details>
+
+## Multiple Components & Modal Setup
 
 <details>
 <summary>Modal App.Vue</summary>
@@ -106,6 +115,8 @@ Modal.vue
 ```
 
 </details>
+
+# Application Setup and Serving
 
 <details>
 <summary>How to Setup and Run</summary>
