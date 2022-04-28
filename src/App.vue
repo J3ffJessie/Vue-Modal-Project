@@ -7,7 +7,7 @@
           <a href="#">Sign Up Now!</a>
           <a href="#">More Info</a>
         </template>  
-        <h1>Sing up for the Team!</h1>
+        <h1>Sign up for the Team!</h1>
         <p>Join the Junior Developer Group!</p>
     </Modal>
 </teleport>
